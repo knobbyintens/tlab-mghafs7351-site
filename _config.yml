@@ -1,0 +1,5 @@
+title: Aster Computational Science Group
+collections:
+  publications:
+    output: true
+    permalink: /publications/:name/

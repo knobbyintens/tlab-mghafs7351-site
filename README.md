@@ -1,2 +1,3 @@
-# tlab-mghafs7351-site
-Public publications site for the Aster Computational Science Group
+# Aster Computational Science Group - Publications Site
+
+Publication entries live in `content/publications/`, one Markdown file per work, each with YAML front matter and a permalink.
